@@ -25,9 +25,9 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
+<!-- <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href="https://www.linkedin.com/posts/farook-mohammad_github-farook8090python-projects-a-comprehensive-activity-7352339753234509824-51JE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAuMGFIBztoemyhl3RyRmYbg0Jgr27tpKao">Supermarket Billing System in Python</a></li>
+<li><a target="_blank" href="https://www.linkedin.com/posts/farook-mohammad_github-farook8090python-projects-a-comprehensive-activity-7352339753234509824-51JE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAuMGFIBztoemyhl3RyRmYbg0Jgr27tpKao">Supermarket Billing System in Python</a></li> -->
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in//farook-mohammad" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com//i_farook786" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
